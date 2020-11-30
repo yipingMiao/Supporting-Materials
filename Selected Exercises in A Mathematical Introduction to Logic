@@ -1,1 +1,8 @@
-
+---
+title: "Homework 3: The Death and Life of Great American City Scaling Laws"
+author: "Yiping Miao 3170101373"
+output: pdf_document
+---
+\[
+ \frac{1}{n}\sum_{i=1}^{n}{(Y_i - y_0 N_i^a)^2}.
+\]
